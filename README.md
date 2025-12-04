@@ -32,7 +32,8 @@
 
 ## Estatísticas no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlossAlexandree&show_icons=true&theme=transparent&bg_color=000000&border_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlossAlexandree&show_icons=true)
+
 
 ## Projetos em destaque
 
