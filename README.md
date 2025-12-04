@@ -4,7 +4,7 @@
 
 - 🧑‍💻 Mestrando em Ciências de Dados e Inteligência Artificial pela American Global Tech University (AGTU)
 - 👨‍💼 Especialista em Gestão e Auditoria de Processos pela Faculdade Serra Geral
-= 🎓 Bacharel em Ciências Contábeis pela Universidade Ateneu
+- 🎓 Bacharel em Ciências Contábeis pela Universidade Ateneu
 
 ## Conecte-se comigo
 
