@@ -2,7 +2,7 @@
 
 ## Formação acadêmica
 
-- 🧑‍💻 Mestrando em Ciências de Dados e Inteligência Artificial pela American Global Tech University (AGTU)
+- 🧑‍💻 Mestrando em Ciências da Computação e Inteligência Artificial pela American Global Tech University (AGTU)
 - 👨‍💼 Especialista em Gestão e Auditoria de Processos pela Faculdade Serra Geral
 - 🎓 Bacharel em Ciências Contábeis pela Universidade Ateneu
 
