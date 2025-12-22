@@ -39,6 +39,10 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=DIO-Lab-Open-Source&show_icons=true&bg_color=181717&border_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/CarlossAlexandree/DIO-Lab-Open-Source)
 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Projeto-Conceitual-Banco-de-Dados-para-E-commerce)](https://github.com/CarlossAlexandree/Projeto-Conceitual-Banco-de-Dados-para-E-commerce)
+
+
 ## Linguagens
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact&theme=transparent&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
