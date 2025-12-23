@@ -42,7 +42,7 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Projeto-Conceitual-Banco-de-Dados-para-E-commerce)](https://github.com/CarlossAlexandree/Projeto-Conceitual-Banco-de-Dados-para-E-commerce)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Sistema-Conceitual-de-Oficina-Mec-nica&theme=tokyonight&hide_border=false)](https://github.com/CarlossAlexandree/Sistema-Conceitual-de-Oficina-Mec-nica)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Sistema-Conceitual-de-Oficina-Mecanica&theme=tokyonight&hide_border=false)](https://github.com/CarlossAlexandree/Sistema-Conceitual-de-Oficina-Mecanica)
 
 
 ## Linguagens
