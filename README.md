@@ -42,9 +42,9 @@
 
 ## Projetos Conceituais
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Projeto-Conceitual-Banco-de-Dados-para-E-commerce)](https://github.com/CarlossAlexandree/Projeto-Conceitual-Banco-de-Dados-para-E-commerce)
+[![E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Projeto-Conceitual-Banco-de-Dados-para-E-commerce)](https://github.com/CarlossAlexandree/Projeto-Conceitual-Banco-de-Dados-para-E-commerce) 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Sistema-Conceitual-de-Oficina-Mec-nica)](https://github.com/CarlossAlexandree/Sistema-Conceitual-de-Oficina-Mec-nica)
+[![Oficina Mecânica](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Sistema-Conceitual-de-Oficina-Mec-nica)](https://github.com/CarlossAlexandree/Sistema-Conceitual-de-Oficina-Mec-nica)
 
 
 ## Linguagens
