@@ -35,10 +35,12 @@
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlossAlexandree&show_icons=true)
 
 
-## Projetos em destaque
+## Projeto Open Source
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=DIO-Lab-Open-Source&show_icons=true&bg_color=181717&border_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/CarlossAlexandree/DIO-Lab-Open-Source)
 
+
+## Projetos Conceituais
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlossAlexandree&repo=Projeto-Conceitual-Banco-de-Dados-para-E-commerce)](https://github.com/CarlossAlexandree/Projeto-Conceitual-Banco-de-Dados-para-E-commerce)
 
