@@ -23,9 +23,10 @@
 ---
 
 ### 📊 Visão Geral da Atividade
-<div align="center">
-  <img src="https://metrics.leodido.dev/CarlossAlexandree?template=classic&base.habits=true&base.habits.charts=true&base.habits.trim=true&config.timezone=America/Fortaleza" alt="Activity Chart" width="100%">
-</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlossAlexandree&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades" />
+</p>
 
 ---
 
