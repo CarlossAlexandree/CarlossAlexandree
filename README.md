@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlossAlexandree&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="175px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact&theme=tokyonight" alt="Principais idiomas" height="175px" />
 </p>
 
 ---
@@ -52,4 +51,6 @@
 
 ## Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact&theme=transparent&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlossAlexandree&layout=compact&theme=tokyonight" alt="Principais idiomas" height="175px" />
+</p>
